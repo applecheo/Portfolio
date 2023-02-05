@@ -35,9 +35,7 @@ function App() {
           marginTop: 32,
         }}
       >
-        <a href="https://vercel.com/applecheo/beams-e-commerce">
-          Beams E-Commerce
-        </a>
+        <a href="https://beams-e-commerce.vercel.app/">Beams E-Commerce</a>
         <a href="https://shoesial.vercel.app/">
           ShoeSial <span> (in progress)</span>
         </a>
