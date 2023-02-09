@@ -35,7 +35,7 @@ export default function Progress() {
             MozColumns: 2,
             listStyle: "none",
             display: "inline-block",
-            // textAlign: "left",
+            textAlign: "left",
           }}
         >
           {TECHNOLOGIES.map((x) => (
